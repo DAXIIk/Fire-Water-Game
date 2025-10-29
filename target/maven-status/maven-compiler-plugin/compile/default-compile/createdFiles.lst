@@ -1,0 +1,8 @@
+com\mycompany\firewatergame\Player.class
+com\mycompany\firewatergame\FireWaterGame.class
+com\mycompany\firewatergame\WaterPlayer.class
+com\mycompany\firewatergame\WarpGate.class
+com\mycompany\firewatergame\LevelGate.class
+com\mycompany\firewatergame\Platform.class
+com\mycompany\firewatergame\FirePlayer.class
+com\mycompany\firewatergame\HitBox.class
